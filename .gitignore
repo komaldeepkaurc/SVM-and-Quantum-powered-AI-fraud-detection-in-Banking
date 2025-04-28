@@ -1,0 +1,30 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment files
+.env
+.venv/
+venv/
+ENV/
+
+# Ignore IDE/editor folders
+.idea/
+.vscode/
+*.swp
+
+# Ignore Streamlit generated folders
+.streamlit/
+
+# Ignore blockchain simulation log
+fraud_log.json
+
+# Ignore Jupyter checkpoints (if you ever use Jupyter)
+.ipynb_checkpoints/
+
+# Ignore build artifacts
+build/
+dist/
+*.egg-info/
