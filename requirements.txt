@@ -1,0 +1,7 @@
+# Library | Purpose
+# numpy | Numerical calculations for input and training data
+# streamlit | For building the fraud detection web app interface
+# scikit-learn | For SVM models and machine learning utilities
+# matplotlib | For plotting risk factor graphs
+# streamlit-extras | For extra UI components (metric cards, colored headers, etc.)
+
